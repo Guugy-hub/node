@@ -1,0 +1,25 @@
+{
+  "name": "projectsnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guugy-hub/node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guugy-hub/node/issues"
+  },
+  "homepage": "https://github.com/Guugy-hub/node#readme",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "beeper": "^2.0.0",
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  }
+}
